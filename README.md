@@ -1,2 +1,2 @@
 # first_repo
-repository pertama
+repository pertama tentang data analysis
